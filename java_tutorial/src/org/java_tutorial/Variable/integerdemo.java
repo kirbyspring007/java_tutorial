@@ -1,4 +1,4 @@
-package Variable;
+package org.java_tutorial.Variable;
 
 public class integerdemo {
 
