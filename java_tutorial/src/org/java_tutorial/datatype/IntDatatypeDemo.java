@@ -1,4 +1,4 @@
-package org.java_tytorial.datatype;
+package org.java_tutorial.datatype;
 
 public class IntDatatypeDemo {
 
